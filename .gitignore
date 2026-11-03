@@ -1,0 +1,21 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Настройки IDE
+.idea/
+.vscode/
+
+# Системные файлы
+.DS_Store
+
+# Логи
+*.log
+
+# Секреты
+.env
+.token
